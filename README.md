@@ -68,8 +68,6 @@ Includes:
    ```sh
    npm start
    ```
-4. Open `http://localhost:3000/` in your browser.
-
 ## 📌 Usage
 1. Click **Get Started** on the landing page.
 2. Select rooms, add-ons, and meals on the product selection page.
