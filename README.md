@@ -54,10 +54,28 @@ Includes:
 ├── 📜 README.md
 ```
 
+
+## Screenshots
+### Landing Page
+![![1](https://github.com/user-attachments/assets/bb223b94-d6cf-4107-8dbe-65b1bf009176)
+
+### Room Selection
+![2](https://github.com/user-attachments/assets/c1715dd5-ba51-4ef6-9fda-424e73bdec4f)
+
+### Add-ons Selection
+![3](https://github.com/user-attachments/assets/7900dc4b-6177-4a77-b386-c5b8b2158efb)
+
+### Meals Selection
+![4](https://github.com/user-attachments/assets/40a03f9b-a024-4539-8c98-b9a0474c4aae)
+
+### Show Details Pop-up
+![5](https://github.com/user-attachments/assets/1150e960-310d-4695-85d5-415ed024b8b5)
+
+
 ## 🛠️ Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/conference-expense-planner.git
+   git clone https://github.com/mohajayyab/ConferenceEventPlannerReact.git
    cd conference-expense-planner
    ```
 2. **Install dependencies:**
