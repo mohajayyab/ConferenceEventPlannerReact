@@ -57,7 +57,7 @@ Includes:
 
 ## Screenshots
 ### Landing Page
-![![1](https://github.com/user-attachments/assets/bb223b94-d6cf-4107-8dbe-65b1bf009176)
+![1](https://github.com/user-attachments/assets/bb223b94-d6cf-4107-8dbe-65b1bf009176)
 
 ### Room Selection
 ![2](https://github.com/user-attachments/assets/c1715dd5-ba51-4ef6-9fda-424e73bdec4f)
